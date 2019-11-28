@@ -1,0 +1,10 @@
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\bin\Debug\netcoreapp2.0\Vega.Api.deps.json
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\bin\Debug\netcoreapp2.0\Vega.Api.runtimeconfig.json
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\bin\Debug\netcoreapp2.0\Vega.Api.runtimeconfig.dev.json
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\bin\Debug\netcoreapp2.0\Vega.Api.dll
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\bin\Debug\netcoreapp2.0\Vega.Api.pdb
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\obj\Debug\netcoreapp2.0\Vega.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\obj\Debug\netcoreapp2.0\Vega.Api.AssemblyInfoInputs.cache
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\obj\Debug\netcoreapp2.0\Vega.Api.AssemblyInfo.cs
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\obj\Debug\netcoreapp2.0\Vega.Api.dll
+C:\Users\Mexyyyy\Desktop\Vega-App\Vega.API\obj\Debug\netcoreapp2.0\Vega.Api.pdb
